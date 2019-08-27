@@ -13,16 +13,12 @@ body{
 
 }
 
-.class{
-border:20px ridge #6666cc;
-color: #f55f62;
-font-family:Apple Chancery, cursive;
-font-size:20px;
-padding:6px 10px;
-border-color:#f55f62;
-background:linear-gradient(to bottom, #abd5aa 5%, #68b465 100%);
-color:#f55f62;
-text-shadow:3px 7px 9px #528009;
-} 
+.input{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 40px;
+    color: #FA8072;
+}
+
+
 
 
