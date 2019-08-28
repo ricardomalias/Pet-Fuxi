@@ -1,9 +1,9 @@
 body{
-	background:#FFFFFF;
+	background-image: url("../assets/fundo.jpg");
 }
 
 .header-site{
-	background: #FFFFFF;
+	background: transparent;
 }
 
 .title{
@@ -13,7 +13,7 @@ body{
 
 }
 
-.type{
+.botao{
 	font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 15px;
     color: #FA8072;
@@ -31,7 +31,7 @@ body{
 
 }
 
-.button: hover {
+.botao:hover {
 	background-color: #DEB887;
 }
 
