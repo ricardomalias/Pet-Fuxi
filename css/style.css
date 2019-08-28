@@ -13,12 +13,26 @@ body{
 
 }
 
-.input{
+.type{
 	font-family: "Comic Sans MS", cursive, sans-serif;
-    font-size: 40px;
+    font-size: 15px;
     color: #FA8072;
+    border: none;
+    border-color: #A0522D;
+    border-radius: 10px;
+    padding-bottom: 2px;
+    cursor: pointer;
+    background-color: #F5DEB3;
+    background: linear-gradient;
+    box-shadow:0 5px 0 #DEB887;
+    position: relative;
+    top: 5px;
+    display: inline-block;
+
 }
 
-
+.button: hover {
+	background-color: #DEB887;
+}
 
 
