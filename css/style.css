@@ -1,12 +1,13 @@
 body{
-	background-image: url("../assets/fundo.jpg");
-}
+	background-image: none url("../assets/br.jpg");
+	} /* < --- faltava fechar essas chaves, isso é um comentário, será ignorado pelo código, pode apagar depois */
 
 .header-site{
 	background: transparent;
 }
 
 .title{
+	background-image: url("../assets/br.jpg");
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size: 40px;
 	color: #FA8072;
@@ -15,24 +16,25 @@ body{
 
 .botao{
 	font-family: "Comic Sans MS", cursive, sans-serif;
-    font-size: 15px;
-    color: #FA8072;
+    font-size: 20px;
+    color: #FFFFFF;
     border: none;
-    border-color: #A0522D;
+    border-color: #F08080;
     border-radius: 10px;
     padding-bottom: 2px;
     cursor: pointer;
-    background-color: #F5DEB3;
+    background-color: #CD5C5C;
     background: linear-gradient;
-    box-shadow:0 5px 0 #DEB887;
+    box-shadow:0 5px 0 #F08080;
     position: relative;
     top: 5px;
     display: inline-block;
 
+
 }
 
-.botao:hover {
-	background-color: #DEB887;
-}
+.botao:hover{
+background-color: #F08080;
 
+}
 
